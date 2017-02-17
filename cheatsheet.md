@@ -1,5 +1,17 @@
-#Adding files to staging area
+#Git Cheatsheet
+
+###Staging area
 
  Add files to staging area:
- `git add`
+
+ ` git add `
+
+
+
+
+###Basic Branching
+
+ Create a new branch:
+
+ ` git branch "branchname" `
 
