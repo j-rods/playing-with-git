@@ -12,6 +12,7 @@ Add all files to staging area:
 ` git add -A `
 
 
+
 ###Basic Branching
 
 Create a new branch:
@@ -21,6 +22,7 @@ Create a new branch:
 Switch to branch:
 
 ` git checkout branchname `
+
 
 
 Merging branch with master branch
